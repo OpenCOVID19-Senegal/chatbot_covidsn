@@ -1,0 +1,36 @@
+start:
+	say Typing(2000)
+	say "Dalal diameu, Je suis Kiné, un chatbot 🤖."
+	say "Je suis là pour répondre à vos questions concernant le COVID-19 (nouveau coronavirus)."
+	say Typing(4000)
+	say "🚨 *Attention !* 🚨
+Je recense les bonnes pratiques données par les autorités sénégalaise et fournis des informations de santé publique, mais je ne remplace pas Dr Bousso mba Pr Seydi!"
+	say Typing(4000)
+	say Question(
+		"En cas de signes d'infections respiratoires dans les 14 jours suivant votre retour d'une zone où circule activement le virus, il faut contacter le 1515 (Samu) ou le numéro vert 800 00 50 50 en faisant état des symptômes et du séjour récent.",
+		buttons = [Button("J'ai compris")]
+	)
+	hold
+	
+	say Typing(4000)
+	say Question(
+		"D'autre part, sachez que les conversations avec moi sont anonymes 🙈. Je ne vous demanderai ni votre nom, ni votre email, ni aucune information personnelle.",
+		buttons = [Button("OK !")]
+	)
+	hold
+
+	say Typing(4000)
+	say "J'ai été créé par la société Kemtiyu (https://www.kemtiyu.com) dont Moustapha Mbacké NDIAYE est le CEO/CTO, et mon code source sera disponible prochainement sur Github Inchallah."
+
+	say Wait(3000)
+	say Typing(3000)
+	say Question(
+		"Niou demm ?",
+		buttons = [
+			Button("Aythiaa")
+		]
+	)
+	hold
+
+
+	goto flow choices

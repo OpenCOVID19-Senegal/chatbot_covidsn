@@ -1,0 +1,115 @@
+{
+  "id": "e18f93f7-7d28-4eca-951f-c1007e0dcf29",
+  "name": "kocc_barma",
+  "description": null,
+  "default_flow": "welcome",
+  "tags": [],
+  "flows": [
+    {
+      "name": "bonnesPratiques",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "chiffres",
+      "description": "Donner des chiffres sur le Coronavirus",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "choices",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "Default",
+      "description": "Default custom flow",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "dernieres_infos",
+      "description": "Dernières informations du gouvernement",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "faq",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "ideesRecues",
+      "description": null,
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "masque",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "symptomes",
+      "commands": [],
+      "tags": []
+    },
+    {
+      "name": "welcome",
+      "description": null,
+      "commands": [
+        "hello",
+        "redémarrer",
+        "restart",
+        "welcome",
+        "get started",
+        "yo",
+        "bonjour",
+        "salut",
+        "salam",
+        "senegal"
+      ],
+      "tags": []
+    }
+  ],
+  "files": [
+    {
+      "name": "ail.png",
+      "description": null
+    },
+    {
+      "name": "animaux.png",
+      "description": null
+    },
+    {
+      "name": "back.png",
+      "description": null
+    },
+    {
+      "name": "medicament.png",
+      "description": null
+    },
+    {
+      "name": "nez.png",
+      "description": null
+    },
+    {
+      "name": "population.png",
+      "description": null
+    },
+    {
+      "name": "question.png",
+      "description": null
+    },
+    {
+      "name": "sesame.jpg",
+      "description": null
+    },
+    {
+      "name": "vaccin.png",
+      "description": null
+    }
+  ],
+  "functions": [],
+  "apps": []
+}
