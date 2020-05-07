@@ -15,11 +15,11 @@ Bot d'information sur le coronavirus réalisé avec le langage open-source CSML 
 
 Ce bot a été réalisé à partir des informations présentées sur les sites des autorités sanitaires (en particulier l'Organisation Mondiale de la Santé et l'Etat Sénégalais).
 
-Il a été développé par les équipes de [Clevy](https://www.clevy.io), leader français des chatbots d'entreprise. Son code est rendu accessible à tous dans sa totalité. Vous pouvez télécharger et modifier ce code selon vos souhaits.
+Il a été développé par Moustapha Mbacké NDIAYE à partir de [Clevy](https://www.clevy.io), leader français des chatbots d'entreprise. Son code est rendu accessible à tous dans sa totalité. Vous pouvez télécharger et modifier ce code selon vos souhaits.
 
 Si vous souhaitez être assistés dans la modification de ce bot pour vos propres besoins (information locale, entreprise, associations), vous pouvez nous contacter sur contact@clevy.io.
 
 ## IMPORTANT
 
 Ce bot ne constitue pas un avis médical.
-Si vous présentez des symptomes, un numéro vert répond à vos questions sur le Coronavirus COVID-19 en permanence, 24h/24 et 7j/7 : 800 00 50 50.
+Si vous présentez des symptomes, un numéro vert répond à vos questions sur le Coronavirus COVID-19 en permanence, 24h/24 et 7j/7 : 800 00 50 50 ou le 1515 (SAMU).
