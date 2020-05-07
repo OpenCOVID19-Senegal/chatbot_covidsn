@@ -1,7 +1,7 @@
 # covid-bot
 
-Bot d'information sur le coronavirus réalisé avec le langage open-source CSML - https://www.csml.dev.
-Testez la version messenger sénégalaise m.me/chatbotsn 🇸🇳🇸🇳🇸🇳
+Bot d'information sur le coronavirus réalisé avec le langage open-source CSML - https://www.csml.dev
+Testez la version messenger sénégalaise https://www.messenger.com/t/chatbotsn 🇸🇳🇸🇳🇸🇳
 Visitez https://covidbot.clevy.io pour l'essayer !  
 Version Facebook Messenger et Workplace Chat sur https://www.messenger.com/t/covid19infofrance
 
